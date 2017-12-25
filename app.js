@@ -15,11 +15,11 @@ mongoose.connect('mongodb://whatsmusicadmin:password@ds163226.mlab.com:63226/wha
 var db = mongoose.connection;
 
 app.get('/', function(req, res) {
-  res.send('Hello World!');
+  res.send('Hello World! Welcome to my Bookstore app.');
 });
 
 app.get('/api', function(req, res) {
-  res.send('/api here!');
+  res.send('Sorry nothing is here yet!');
 });
 
 //Genres section
