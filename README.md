@@ -1,2 +1,2 @@
 # Bookstore
-REST API with NodeJS, ExpressJS, MongoDB
+A sample app exposing REST API with NodeJS, ExpressJS, MongoDB
