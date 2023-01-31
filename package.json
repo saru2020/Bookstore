@@ -11,7 +11,7 @@
     "body-parser": "*",
     "express": "*",
     "heroku": "^0.2.0",
-    "mongoose": "^4.13.7"
+    "mongoose": "^5.13.15"
   },
   "author": "Saravanan",
   "license": "ISC"
